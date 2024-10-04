@@ -1,4 +1,4 @@
-# bioAI-Oslo.github.io
+# bioAI lab website
 
 ## Usage
 
