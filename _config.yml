@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: bioAI
-middle_name:
-last_name: Group
+middle_name: research
+last_name: group
 email: mikkel@simula.no
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The bioAI group at Simula Research Laboratory and the University of Oslo
