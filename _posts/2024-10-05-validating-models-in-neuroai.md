@@ -7,7 +7,8 @@ tags: formatting links
 categories: sample-posts
 ---
 The NeuroAI workshop, held from September 5-8, 2024, aboard the Hurtigruten cruise ship traveling from Tromsø to Trondheim, brought together leading researchers in neuroscience and artificial intelligence (AI). The picturesque Norwegian coastline provided an inspiring backdrop for an event focused on a pressing question in this emerging field: how can we validate AI models that seek to replicate or be inspired by neural processes?
-The Challenge of Validation in NeuroAI
+
+## The Challenge of Validation in NeuroAI
 
 The workshop, organized by Mikkel Lepperød (Simula Research Laboratory), Anders Malthe-Sørenssen (Center for Computing in Science Education (CCSE) University of Oslo), and Konrad Kording (University of Pennsylvania), explored the intersection of neuroscience and AI, aiming to bridge gaps between model development and experimental neuroscience. Attendees delved into the complexities of creating models that not only emulate the brain’s functions but also capture its fundamental principles. The challenge of validation is significant as current models don’t correspond one-to-one with the brain but rather aim to capture some essence, such as similar representations or comparable behavior.
 
