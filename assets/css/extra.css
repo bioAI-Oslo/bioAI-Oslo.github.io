@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+
+.navbar__left,
+.navbar__right,
+.navbar__list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navbar__logo {
+    width: 150px;
+    height: 100px;
+}
+
+.navbar__title {
+    margin-left: 10px;
+}
+
+.navbar__list-item {
+    list-style: none;
+    margin-right: 20px;
+}
