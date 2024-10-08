@@ -16,7 +16,7 @@ profile:
     name: Nicolai Haug, M.Sc.
     position: Doctoral Researcher in bioAI  
     align: right
-    image: haug.jpg
+    image: profile_haug.jpg
     role: Doctoral Researcher
     website: 
     email: nicolaih@simula.no
