@@ -31,4 +31,4 @@ profile:
         Norway
 ---
 
-Markus Pettersen is a doctoral researcher in bioAI
+I'm a PhD student focused on learning neural representations, with a primary focus on hippocampal place cells. My work explores how place cells encode spatial and contextual information, by developing self-supervised models capable of place field formation and remapping. Additionally, I build self-supervised models of grid cells and their role in spatial encoding and path integration.
