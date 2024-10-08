@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+page-title: About
 permalink: /
 sitetitle: true
 subtitle: <a href='https://www.simula.no/about'>Simula Research Laboratory</a> | <a href='https://www.uio.no/english/about/'>University of Oslo</a>

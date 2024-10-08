@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /impressum
-title: Impressum
+title: impressum
+page-title: Impressum
 description: Legal note and contact.
 nav: false
 ---

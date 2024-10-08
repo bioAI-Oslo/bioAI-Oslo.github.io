@@ -2,9 +2,10 @@
 layout: page
 permalink: /repositories/
 title: repositories
+page-title: Repositories
 description:
 nav: true
-nav_order: 4
+nav_order: 7
 ---
 
 A selection of model implementations, toolboxes and general software developed by our group. For a full overview, visit our [GitHub organization](https://github.com/bioAI-Oslo).
