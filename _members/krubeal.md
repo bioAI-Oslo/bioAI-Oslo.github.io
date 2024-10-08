@@ -22,8 +22,8 @@ profile:
     email: krubeal.danieli@ibv.uio.no
     phone: 
     twitter: 
-    github:
-    orcid:
+    github:https://github.com/iKiru-hub
+    orcid:0000-0003-2916-5995
     scholar_userid:
     address: >
         Department of Biosciences<br />
