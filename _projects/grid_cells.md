@@ -8,4 +8,4 @@ category: work
 related_publications: true
 ---
 
-We have several projects focusing on spatial representations
+We have several projects focusing on spatial representations. Planning one masters project on combining self-supervised learning as pretraining for reinforcement learning - more information to come. 
