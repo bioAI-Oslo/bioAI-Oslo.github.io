@@ -150,10 +150,13 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /:collection/:title/
+    permalink: /news/:path/
   projects:
     output: true
-    permalink: /:collection/:title/
+    permalink: /projects/:path/
+  members:
+    output: true
+    permalink: /members/:path
 
 announcements:
   enabled: true
