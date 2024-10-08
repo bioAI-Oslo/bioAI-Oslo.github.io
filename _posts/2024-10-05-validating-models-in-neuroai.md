@@ -5,7 +5,7 @@ date: 2024-10-05 17:10:00
 description: Navigating the Future of NeuroAI - Success and Validation in Model Development
 tags: workshops
 ---
-
+This story is also posted at [CCSE](https://www.mn.uio.no/ccse/english/about/news-and-events/news/navigating-the-future-of-neuroai.html)
 # Navigating the Future of NeuroAI - Success and Validation in Model Development
 [The NeuroAI workshop](https://www.mn.uio.no/ccse/english/about/news-and-events/events/2024/neuro-ai-workshop.html), held from September 5-8, 2024, aboard the Hurtigruten cruise ship traveling from Tromsø to Trondheim, brought together leading researchers in neuroscience and artificial intelligence (AI). The picturesque Norwegian coastline provided an inspiring backdrop for an event focused on a pressing question in this emerging field: how can we validate AI models that seek to replicate or be inspired by neural processes?
 
