@@ -3,7 +3,7 @@ layout: about
 inline: false
 group: Faculty
 group_rank: 1
-group_order: 2
+group_order: 3
 
 title: Marianne Fyhn, PhD
 description: Profile of Prof. Marianne Fyhn, Group leader of the bioAI group.
