@@ -19,7 +19,7 @@ profile:
     team-position: Professor
     align: right 
     logos: true
-    image: profile_placeholder.png
+    image: profile_anders-malthe-sorensen.jpg
     email: anders.malthe-sorenssen@fys.uio.no
     github:
     scholar_userid:
@@ -34,4 +34,6 @@ profile:
 social: true  # includes social icons at the bottom of the page        
 ---
 
-My name is Anders Malthe-Sørenssen and I am a professor at the Department of Physics, University of Oslo
+I study how we can use our knowledge of the brain to develop better artificial intelligence and how we can study learning in artificial intelligence systems to understand the brain.
+
+In addition, I develop methods in artificial intelligence and machine learning to develop new materials, such as materials with high or low friction. Simultaneously, I study how the artificial intelligence develops internal representations - an understanding - for the laws of nature.
