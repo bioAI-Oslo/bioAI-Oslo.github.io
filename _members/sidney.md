@@ -16,7 +16,7 @@ profile:
     name: Sidney Pontes-Filho, PhD
     position: Postdoctoral Researcher in bioAI   
     align: right
-    image: profile_sidney.png
+    image: profile_sidney.jpg
     role: Postdoctoral Researcher
     website: https://sidneypontesfilho.com/
     email: sidney@simula.no
