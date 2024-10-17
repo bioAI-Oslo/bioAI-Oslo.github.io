@@ -10,7 +10,7 @@ lastname: Einevoll
 publications: 'author^=*Einevoll'
 
 teaser: >
-    Gaute Einevoll is a professor
+    Gaute Einevoll is a professor of physics at the Norwegian University of Life Sciences and the University of Oslo working on brain physics.
 
 profile:
     name: Gaute Einevoll, PhD
