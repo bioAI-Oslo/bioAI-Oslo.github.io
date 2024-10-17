@@ -16,7 +16,7 @@ profile:
     name: Gaute Einevoll, PhD
     position: Professor 
     align: right
-    image: profile_GauteEinevoll.jpg
+    image: profile_GauteEinevoll.JPG
     role: Professor
     website: 
     email: gaute.einevoll@nmbu.no
