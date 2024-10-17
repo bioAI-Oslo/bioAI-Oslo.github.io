@@ -32,9 +32,9 @@ profile:
 ---
 
 Gaute Einevoll is a professor of physics at the Norwegian University of Life Sciences and the University of Oslo working on brain physics, in particular, physics-type modelling of nerve cells, networks of nerve cells, brain tissue and brain signals.
-He is producing the [Theoretical Neuroscience Podcast](theoreticalneuroscience.no) since October 2023 and the [Vett og vitenskap popular science podcast since 2019](vettogvitenskap.no).
+He is producing the [Theoretical Neuroscience Podcast](https://www.theoreticalneuroscience.no) since October 2023 and the [Vett og vitenskap popular science podcast since 2019](https://www.vettogvitenskap.no).
 
 He is a co-author of two textbooks:
-Halnes, Ness, Næss, Hagen, Pettersen Einevoll: ["Electric Brain Signals", Cambridge Univ. Press, 2024](www.cambridge.org/electricbrainsignals)
-Sterratt, Graham, Gillies, Einevoll, Willshaw: ["Principles of computational modeling in neuroscience" (2nd ed), Cambridge Univ. Press 2023,](www.cambridge.org/sterratt2)
+Halnes, Ness, Næss, Hagen, Pettersen Einevoll: ["Electric Brain Signals", Cambridge Univ. Press, 2024](https://www.cambridge.org/electricbrainsignals)
+Sterratt, Graham, Gillies, Einevoll, Willshaw: ["Principles of computational modeling in neuroscience" (2nd ed), Cambridge Univ. Press 2023,](https://www.cambridge.org/sterratt2)
 
