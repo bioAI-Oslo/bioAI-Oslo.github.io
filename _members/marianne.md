@@ -19,7 +19,7 @@ profile:
     team-position: Professor
     align: right 
     logos: true
-    image: profile_placeholder.png
+    image: profil_marianne_fyhn.png
     email: marianne.fyhn@ibv.uio.no
     github:
     scholar_userid:
@@ -34,4 +34,4 @@ profile:
 social: true  # includes social icons at the bottom of the page        
 ---
 
-My name is Marianne Fyhn and I am a professor at the Department of Biosciences, University of Oslo
+Marianne Fyhn is director of Centre for Integrative Neuroplasticity (CINPLA). CINPLA is a strategic research initiative at the MN Faculty at UiO, aiming to reveal mechanisms underlying the brain’s ability to change and learn from experiences. By integrating experimental methods with physics-based computational modelling and analysis, we work to develop a creative and inspiring consortium aiming to deliver groundbreaking research and develop an interdisciplinary and high-quality educational program in Neuroscience at the faculty.
