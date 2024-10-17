@@ -16,7 +16,7 @@ profile:
     name: Krubeal Danieli, M.Sc.
     position: Doctoral Researcher in bioAI  
     align: right
-    image: profile_placeholder.png
+    image: profile_krubeal.png
     role: Doctoral Researcher
     website: 
     email: krubeal.danieli@ibv.uio.no
