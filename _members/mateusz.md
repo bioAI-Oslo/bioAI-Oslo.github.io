@@ -16,11 +16,11 @@ profile:
     name: Mateusz Wasiluk, M.Sc.
     position: Doctoral Researcher in bioAI  
     align: right
-    image: profile_placeholder.png
+    image: profile_mateusz.jpg
     role: Doctoral Researcher
-    website: 
+    website: https://www.mn.uio.no/ibv/english/people/aca/mateuwa/index.html
     email: mateusz.wasiluk@ibv.uio.no
-    phone: 
+    phone: +47 475 01 911
     twitter: 
     github:
     orcid:
