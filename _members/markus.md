@@ -16,7 +16,7 @@ profile:
     name: Markus Pettersen, M.Sc.
     position: Doctoral Researcher in bioAI  
     align: right
-    image: profile_placeholder.png
+    image: profile_markus.jpg
     role: Doctoral Researcher
     website: 
     email: markusb@simula.no
