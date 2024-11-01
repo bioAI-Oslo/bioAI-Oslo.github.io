@@ -15,11 +15,13 @@ social: true # includes social icons at the bottom of the page
 Welcome to the bioAI group's website!
 
 At the **Biologically-Inspired Artificial Intelligence (bioAI)** research group, we develop brain-inspired AI methods to advance our understanding of brain function and enhance AI technology. Our focus areas include
-- energy efficiency
-- explainability
-- robustness
-- causal representation learning
+- spatial navigation
+- active sensing
+- interpretability
+- representation learning
+- causality
 - continual learning
+- analysis of neural data
 
 We are hosted by the [Simula Research Laboratory](https://www.simula.no/about) in collaboration with the [University of Oslo (UiO)](https://www.uio.no/english/about/). We also maintain strong ties with UiO's [Centre for Integrative Neuroplasticity (CINPLA)](https://www.mn.uio.no/ibv/english/research/sections/fyscell/cinpla/about/).
 
